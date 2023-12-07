@@ -1,4 +1,4 @@
-Pokédex Vue App
+#Pokédex Vue App#
 Bem-vindo à Pokédex Vue App! Esta aplicação web foi desenvolvida utilizando Vue 3, Vite, Visual Studio Code, Bootstrap e implantada no Netlify. A Pokédex Vue App é uma ferramenta simples, mas poderosa, que permite aos usuários explorar informações sobre diferentes Pokémon.
 
 Recursos
